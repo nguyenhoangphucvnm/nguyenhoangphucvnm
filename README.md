@@ -26,13 +26,13 @@ based in vietnam 🇻🇳, currently focused on mobile architecture, monorepos, 
 
 ### stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=phucprime&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nguyenhoangphucvnm&hide_border=true)
 
 ---
 
 ### reach me
 
-[![Email](https://img.shields.io/badge/Email-phuccoder@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:phuccoder@gmail.com)
+[![Email](https://img.shields.io/badge/Email-phuccoder@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nguyenhoangphucvnm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-phucprime-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phucprime/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-phuc--nguyen-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11780040/phuc-nguyen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-phucprime.netlify.app-000000?style=flat&logo=netlify&logoColor=white)](https://phucprime.netlify.app)
